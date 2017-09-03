@@ -7,7 +7,7 @@ $DB_NAME = 'mil';
 
 $DB_HOST = 'localhost'; // server
 $DB_USER = 'fernandogestomoreno_dk'; // database user
-$DB_PASS = 'ujWdRNsH'; // database password
+$DB_PASS = 'password'; // database password
 $DB_NAME = 'fernandogestomoreno_dk'; // database name */
 
 $link = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);

@@ -1,0 +1,85 @@
+/* Scss Document */
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+  background-color: indianred;
+  color: white;
+  font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif"; }
+  * h1 {
+    padding: 30px;
+    text-align: center;
+    margin: 30px; }
+
+.main {
+  margin-top: 50px;
+  text-align: center;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 400px; }
+
+.logoutbutton {margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    height: 55px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    background-color: indianred;
+    border-color: white;
+    border: 3px solid; 
+	
+}
+
+.signup {
+  width: 400px;
+  height: 200px;
+  background-color: indianred;
+  position: relative; }
+  .signup button {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    height: 55px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    background-color: indianred;
+    border-color: white; }
+
+.login {
+  width: 400px;
+  height: 200px;
+  background-color: indianred;
+  position: relative; }
+  .login button {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    height: 55px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    background-color: indianred;
+    border-color: white;
+    border: 3px solid; }
+
+.link {
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px; }
